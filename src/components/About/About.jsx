@@ -50,7 +50,7 @@
 //                     </p>
 //                     {/* Resume Button */}
 //                     <a
-//                         href="https://drive.google.com/file/d/1oISh8epdMX0CfnKz91V5plafOR3GkdJc/view?usp=drivesdk"
+//                         href="https://drive.google.com/file/d/1eaghymMVN2iUs-X4fHcPZCx50nLmyS4g/view?usp=drivesdk"
 //                         target="_blank"
 //                         rel="noopener noreferrer"
 //                         className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -133,7 +133,7 @@ const About = () => {
             applications and continuously improving my DSA and software development skills.
           </p>
           
-          <a href="https://drive.google.com/file/d/1oISh8epdMX0CfnKz91V5plafOR3GkdJc/view?usp=drivesdk"
+          <a href="https://drive.google.com/file/d/1eaghymMVN2iUs-X4fHcPZCx50nLmyS4g/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 border border-[#64ffda] text-[#64ffda] font-mono text-sm px-8 py-3 rounded hover:bg-[#64ffda]/10 transition-all duration-300 hover:shadow-[0_0_20px_rgba(100,255,218,0.2)] hover:scale-105"

@@ -176,7 +176,7 @@ export const SkillsInfo = [
       img: lnctLogo,
       school: "LNCT Group of Colleges, Bhopal",
       date: "Nov 2022 - June 2026",
-      grade: "7.62 CGPA",
+      grade: "7.77 CGPA",
       desc: "I have completed my Bachelor's degree (B.Tech) in Computer Science Engineering from LNCT College, Bhopal. During my time at LNCT, I gained a strong foundation in programming, software development, and computer science Subjects. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at LNCT has been instrumental in shaping my technical abilities and professional growth.",
       degree: "BACHELOR OF TECHNOLOGY - B.TECH",
     },
